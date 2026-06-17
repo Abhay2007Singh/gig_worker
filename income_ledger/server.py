@@ -758,13 +758,13 @@ def run_server(port: int = 8765, open_browser: bool = True) -> None:
     except ImportError:
         pass
 
-    port = int(os.environ.get("SERVER_PORT", port))
+    port = int(os.environ.get("PORT") or os.environ.get("SERVER_PORT") or port)
     open_browser_env = os.environ.get("SERVER_OPEN_BROWSER", "").strip().lower()
     if open_browser_env == "false":
         open_browser = False
 
-    server = HTTPServer(("127.0.0.1", port), UploadHandler)
-    url = f"http://127.0.0.1:{port}/"
+    server = HTTPServer(("0.0.0.0", port), UploadHandler)
+    url = f"http://0.0.0.0:{port}/"
     print(f"Gig Income Ledger running at {url}")
     if os.environ.get("GEMINI_API_KEY"):
         print("Gemini API key loaded — live rephrasing enabled.")
