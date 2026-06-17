@@ -1,0 +1,201 @@
+description,expected_platform,expected_event_type,expected_match_quality_class
+UPI/SWIGGY INSTAMART/300135,swiggy,payout,should_be_ambiguous
+SWIGGY PVT LTD NEFT 100065,swiggy,payout,should_be_exact
+UPI/SWGY FOOD PAYOUT 100041,swiggy,payout,should_be_exact
+UPI/ZOMATO LTD/SETTLEMENT/100066,zomato,payout,should_be_exact
+UPI/SWIGGY PVT LTD/REFUND/200089,swiggy,reversal,should_be_exact
+OLA CABS NEFT 100076,ola,payout,should_be_exact
+UPI/SWIGGY PVT LTD/PAYOUT/100037,swiggy,payout,should_be_exact
+RENT PAYMENT NEFT,,unmatched,should_be_unmatched
+NEFT CR SALARY XYZ CORP,,unmatched,should_be_unmatched
+MOBILE RECHARGE JIO,,unmatched,should_be_unmatched
+NEFT CR FREELANCE CLIENT A,,unmatched,should_be_unmatched
+UPI/OLA SHARE PAYMENT/300138,ola,payout,should_be_ambiguous
+UPI/UBER PAYOUT 100023,uber,payout,should_be_exact
+INSURANCE PREMIUM DEBIT,,unmatched,should_be_unmatched
+GROCERY STORE POS,,unmatched,should_be_unmatched
+UPI/UBER INDIA SYSTEMS/REFUND/200091,uber,reversal,should_be_exact
+ZOMATO LTD NEFT CREDIT 100054,zomato,payout,should_be_exact
+UPI/UBER PAYOUT 100027,uber,payout,should_be_exact
+MOBILE RECHARGE AIRTEL,,unmatched,should_be_unmatched
+UPI/ZOMATO LTD/SETTLEMENT/100026,zomato,payout,should_be_exact
+UPI/OLA CABS RFND 200092,ola,reversal,should_be_exact
+UPI/OLA CABS RFND 200088,ola,reversal,should_be_exact
+UPI/SWIGGY PVT LTD/PAYOUT/100073,swiggy,payout,should_be_exact
+UPI/OLA CABS PAYOUT,ola,payout,should_be_exact
+NEFT CR SALARY XYZ CORP,,unmatched,should_be_unmatched
+UPI/UBER PAYOUT 100067,uber,payout,should_be_exact
+CREDIT CARD BILL PAYMENT,,unmatched,should_be_unmatched
+UPI/OLA CABS PAYOUT,ola,payout,should_be_exact
+UPI/UBER INDIA SYSTEMS/PAYOUT,uber,payout,should_be_exact
+NEFT CR FREELANCE CLIENT A,,unmatched,should_be_unmatched
+ZOMATO LTD REVERSAL 200082,zomato,reversal,should_be_exact
+MOBILE RECHARGE AIRTEL,,unmatched,should_be_unmatched
+UBER INDIA SYSTEMS NEFT 100039,uber,payout,should_be_exact
+UPI/UBER PAYOUT 100011,uber,payout,should_be_exact
+ZOMATO LTD NEFT CREDIT 100034,zomato,payout,should_be_exact
+ELECTRICITY BILL PAYMENT,,unmatched,should_be_unmatched
+UPI/UBER INDIA SYSTEMS/PAYOUT,uber,payout,should_be_exact
+MOBILE RECHARGE JIO,,unmatched,should_be_unmatched
+CREDIT CARD BILL PAYMENT,,unmatched,should_be_unmatched
+RENT PAYMENT NEFT,,unmatched,should_be_unmatched
+NEFT CR SALARY XYZ CORP,,unmatched,should_be_unmatched
+UPI/ZOMATO LTD/RVSL/200110,zomato,reversal,should_be_exact
+UBER INDIA SYSTEMS NEFT 100035,uber,payout,should_be_exact
+ZOMATO LTD NEFT CREDIT 100038,zomato,payout,should_be_exact
+UPI/OLA DRIVER PAYOUT 100004,ola,payout,should_be_exact
+UPI/UBER INDIA SYSTEMS/REFUND/200095,uber,reversal,should_be_exact
+ZOMATO LTD REVERSAL 200090,zomato,reversal,should_be_exact
+GROCERY STORE POS,,unmatched,should_be_unmatched
+UPI/OLA SHARE PAYMENT/300118,ola,payout,should_be_ambiguous
+UPI/ZOMATO LTD/RVSL/200102,zomato,reversal,should_be_exact
+CREDIT CARD BILL PAYMENT,,unmatched,should_be_unmatched
+MOBILE RECHARGE JIO,,unmatched,should_be_unmatched
+UPI/ZOMATO LTD/RVSL/200086,zomato,reversal,should_be_exact
+UPI/SWIGGY PVT LTD/REFUND/200081,swiggy,reversal,should_be_exact
+UBER INDIA SYSTEMS NEFT 100047,uber,payout,should_be_exact
+UPI/SWIGGY PVT LTD/PAYOUT/100045,swiggy,payout,should_be_exact
+UPI/ZMT PAYOUT 100078,zomato,payout,should_be_exact
+ATM WDL CASH,,unmatched,should_be_unmatched
+ZOMATO LTD NEFT CREDIT 100030,zomato,payout,should_be_exact
+UBER EATS SUBSCRIPTION FEE,uber,payout,should_be_ambiguous
+INSURANCE PREMIUM DEBIT,,unmatched,should_be_unmatched
+SWIGGY ONE MEMBERSHIP FEE,swiggy,payout,should_be_ambiguous
+ATM WDL CASH,,unmatched,should_be_unmatched
+UPI/ZMT PAYOUT 100050,zomato,payout,should_be_exact
+MOBILE RECHARGE AIRTEL,,unmatched,should_be_unmatched
+UPI/SWGY FOOD PAYOUT 100049,swiggy,payout,should_be_exact
+UBER EATS SUBSCRIPTION FEE,uber,payout,should_be_ambiguous
+UPI/UBER INDIA SYSTEMS/REFUND/200099,uber,reversal,should_be_exact
+ZOMATO LTD REVERSAL 200098,zomato,reversal,should_be_exact
+CREDIT CARD BILL PAYMENT,,unmatched,should_be_unmatched
+MOBILE RECHARGE AIRTEL,,unmatched,should_be_unmatched
+UPI/UBER PAYOUT 100063,uber,payout,should_be_exact
+UPI/UBER INDIA SYSTEMS/REFUND/200107,uber,reversal,should_be_exact
+ATM WDL CASH,,unmatched,should_be_unmatched
+CREDIT CARD BILL PAYMENT,,unmatched,should_be_unmatched
+UPI/OLA DRIVER PAYOUT 100012,ola,payout,should_be_exact
+UPI/ZOMATO ADS/300140,zomato,payout,should_be_ambiguous
+UPI/SWIGGY INSTAMART/300127,swiggy,payout,should_be_ambiguous
+INSURANCE PREMIUM DEBIT,,unmatched,should_be_unmatched
+UPI/OLA CABS RFND 200100,ola,reversal,should_be_exact
+UPI/UBER INDIA SYSTEMS/PAYOUT,uber,payout,should_be_exact
+MOBILE RECHARGE JIO,,unmatched,should_be_unmatched
+UPI/ZOMATO LTD/SETTLEMENT/100010,zomato,payout,should_be_exact
+UPI/SWIGGY PVT LTD/REFUND/200097,swiggy,reversal,should_be_exact
+ZOMATO LTD REVERSAL 200106,zomato,reversal,should_be_exact
+UPI/OLA CABS PAYOUT,ola,payout,should_be_exact
+UPI/OLA CABS PAYOUT,ola,payout,should_be_exact
+UPI/OLA CABS RFND 200108,ola,reversal,should_be_exact
+GROCERY STORE POS,,unmatched,should_be_unmatched
+RENT PAYMENT NEFT,,unmatched,should_be_unmatched
+UPI/SWIGGY PVT LTD/PAYOUT/100069,swiggy,payout,should_be_exact
+INSURANCE PREMIUM DEBIT,,unmatched,should_be_unmatched
+UPI/OLA SHARE PAYMENT/300114,ola,payout,should_be_ambiguous
+SWIGGY ONE MEMBERSHIP FEE,swiggy,payout,should_be_ambiguous
+UPI/ZOMATO LTD/SETTLEMENT/100014,zomato,payout,should_be_exact
+OLA CABS NEFT 100044,ola,payout,should_be_exact
+SWIGGY PVT LTD RFND 200105,swiggy,reversal,should_be_exact
+INSURANCE PREMIUM DEBIT,,unmatched,should_be_unmatched
+UPI/OLA CABS PAYOUT,ola,payout,should_be_exact
+UPI/ZOMATO ADS/300112,zomato,payout,should_be_ambiguous
+NEFT CR SALARY XYZ CORP,,unmatched,should_be_unmatched
+UPI/OLA CABS RFND 200084,ola,reversal,should_be_exact
+GROCERY STORE POS,,unmatched,should_be_unmatched
+UPI/UBER INDIA SYSTEMS/PAYOUT,uber,payout,should_be_exact
+ZOMATO LTD REVERSAL 200094,zomato,reversal,should_be_exact
+UPI/OLA DRIVER PAYOUT 100060,ola,payout,should_be_exact
+UPI/SWIGGY INSTAMART/300115,swiggy,payout,should_be_ambiguous
+UPI/ZOMATO ADS/300128,zomato,payout,should_be_ambiguous
+NEFT CR FREELANCE CLIENT A,,unmatched,should_be_unmatched
+UPI/OLA DRIVER PAYOUT 100056,ola,payout,should_be_exact
+OLA MONEY WALLET TOPUP,ola,payout,should_be_ambiguous
+SWIGGY ONE MEMBERSHIP FEE,swiggy,payout,should_be_ambiguous
+SWIGGY PVT LTD NEFT 100013,swiggy,payout,should_be_exact
+SWIGGY PVT LTD NEFT 100025,swiggy,payout,should_be_exact
+UPI/SWIGGY PVT LTD/PAYOUT/100053,swiggy,payout,should_be_exact
+UPI/OLA CABS RFND 200104,ola,reversal,should_be_exact
+UPI/ZOMATO ADS/300124,zomato,payout,should_be_ambiguous
+UPI/SWIGGY PVT LTD/REFUND/200101,swiggy,reversal,should_be_exact
+UPI/OLA CABS PAYOUT,ola,payout,should_be_exact
+SWIGGY ONE MEMBERSHIP FEE,swiggy,payout,should_be_ambiguous
+GROCERY STORE POS,,unmatched,should_be_unmatched
+UPI/ZOMATO LTD/SETTLEMENT/100074,zomato,payout,should_be_exact
+NEFT CR SALARY XYZ CORP,,unmatched,should_be_unmatched
+ZOMATO GOLD SUBSCRIPTION,zomato,payout,should_be_ambiguous
+NEFT CR FREELANCE CLIENT A,,unmatched,should_be_unmatched
+MOBILE RECHARGE JIO,,unmatched,should_be_unmatched
+ZOMATO LTD NEFT CREDIT 100070,zomato,payout,should_be_exact
+NEFT CR FREELANCE CLIENT A,,unmatched,should_be_unmatched
+INSURANCE PREMIUM DEBIT,,unmatched,should_be_unmatched
+OLA CABS NEFT 100072,ola,payout,should_be_exact
+UPI/SWGY FOOD PAYOUT 100061,swiggy,payout,should_be_exact
+UPI/ZOMATO ADS/300132,zomato,payout,should_be_ambiguous
+RENT PAYMENT NEFT,,unmatched,should_be_unmatched
+SWIGGY PVT LTD RFND 200085,swiggy,reversal,should_be_exact
+SWIGGY PVT LTD NEFT 100009,swiggy,payout,should_be_exact
+CREDIT CARD BILL PAYMENT,,unmatched,should_be_unmatched
+MOBILE RECHARGE JIO,,unmatched,should_be_unmatched
+OLA CABS NEFT 100016,ola,payout,should_be_exact
+UPI/UBER INDIA SYSTEMS/PAYOUT,uber,payout,should_be_exact
+UPI/ZOMATO LTD/SETTLEMENT/100002,zomato,payout,should_be_exact
+UPI/SWIGGY PVT LTD/PAYOUT/100057,swiggy,payout,should_be_exact
+UPI/UBER INDIA SYSTEMS/PAYOUT,uber,payout,should_be_exact
+NEFT CR SALARY XYZ CORP,,unmatched,should_be_unmatched
+UPI/ZOMATO LTD/SETTLEMENT/100006,zomato,payout,should_be_exact
+UPI/UBER INDIA SYSTEMS/REFUND/200087,uber,reversal,should_be_exact
+UPI/SWIGGY PVT LTD/PAYOUT/100017,swiggy,payout,should_be_exact
+UPI/ZMT PAYOUT 100058,zomato,payout,should_be_exact
+OLA CABS NEFT 100064,ola,payout,should_be_exact
+UBER INDIA SYSTEMS NEFT 100031,uber,payout,should_be_exact
+ZOMATO GOLD SUBSCRIPTION,zomato,payout,should_be_ambiguous
+UPI/UBER RIDE PAYMENT/300133,uber,payout,should_be_ambiguous
+UPI/UBER RIDE PAYMENT/300113,uber,payout,should_be_ambiguous
+NEFT CR FREELANCE CLIENT A,,unmatched,should_be_unmatched
+UPI/UBER INDIA SYSTEMS/REFUND/200103,uber,reversal,should_be_exact
+OLA CABS NEFT 100080,ola,payout,should_be_exact
+OLA CABS NEFT 100052,ola,payout,should_be_exact
+ELECTRICITY BILL PAYMENT,,unmatched,should_be_unmatched
+UBER INDIA SYSTEMS NEFT 100055,uber,payout,should_be_exact
+SWIGGY PVT LTD RFND 200109,swiggy,reversal,should_be_exact
+ATM WDL CASH,,unmatched,should_be_unmatched
+GROCERY STORE POS,,unmatched,should_be_unmatched
+UPI/OLA CABS PAYOUT,ola,payout,should_be_exact
+UPI/UBER INDIA SYSTEMS/PAYOUT,uber,payout,should_be_exact
+ATM WDL CASH,,unmatched,should_be_unmatched
+OLA MONEY WALLET TOPUP,ola,payout,should_be_ambiguous
+RENT PAYMENT NEFT,,unmatched,should_be_unmatched
+UPI/SWGY FOOD PAYOUT 100033,swiggy,payout,should_be_exact
+UBER EATS SUBSCRIPTION FEE,uber,payout,should_be_ambiguous
+UPI/ZOMATO LTD/SETTLEMENT/100018,zomato,payout,should_be_exact
+UBER EATS SUBSCRIPTION FEE,uber,payout,should_be_ambiguous
+ZOMATO LTD NEFT CREDIT 100022,zomato,payout,should_be_exact
+UPI/SWIGGY PVT LTD/PAYOUT/100021,swiggy,payout,should_be_exact
+ELECTRICITY BILL PAYMENT,,unmatched,should_be_unmatched
+ELECTRICITY BILL PAYMENT,,unmatched,should_be_unmatched
+UPI/UBER PAYOUT 100015,uber,payout,should_be_exact
+ZOMATO LTD NEFT CREDIT 100062,zomato,payout,should_be_exact
+UPI/UBER PAYOUT 100079,uber,payout,should_be_exact
+UPI/SWIGGY PVT LTD/REFUND/200093,swiggy,reversal,should_be_exact
+SWIGGY PVT LTD NEFT 100029,swiggy,payout,should_be_exact
+UPI/SWGY FOOD PAYOUT 100005,swiggy,payout,should_be_exact
+UPI/OLA SHARE PAYMENT/300126,ola,payout,should_be_ambiguous
+UPI/UBER INDIA SYSTEMS/REFUND/200083,uber,reversal,should_be_exact
+MOBILE RECHARGE AIRTEL,,unmatched,should_be_unmatched
+SWIGGY PVT LTD NEFT 100001,swiggy,payout,should_be_exact
+UPI/ZOMATO ADS/300136,zomato,payout,should_be_ambiguous
+SWIGGY ONE MEMBERSHIP FEE,swiggy,payout,should_be_ambiguous
+UPI/ZOMATO LTD/SETTLEMENT/100042,zomato,payout,should_be_exact
+UPI/OLA CABS RFND 200096,ola,reversal,should_be_exact
+OLA CABS NEFT 100040,ola,payout,should_be_exact
+UPI/UBER PAYOUT 100051,uber,payout,should_be_exact
+ELECTRICITY BILL PAYMENT,,unmatched,should_be_unmatched
+RENT PAYMENT NEFT,,unmatched,should_be_unmatched
+MOBILE RECHARGE AIRTEL,,unmatched,should_be_unmatched
+UPI/SWGY FOOD PAYOUT 100077,swiggy,payout,should_be_exact
+ATM WDL CASH,,unmatched,should_be_unmatched
+UPI/OLA DRIVER PAYOUT 100028,ola,payout,should_be_exact
+OLA MONEY WALLET TOPUP,ola,payout,should_be_ambiguous
+UPI/ZOMATO LTD/SETTLEMENT/100046,zomato,payout,should_be_exact
+ELECTRICITY BILL PAYMENT,,unmatched,should_be_unmatched
+UPI/UBER RIDE PAYMENT/300129,uber,payout,should_be_ambiguous
