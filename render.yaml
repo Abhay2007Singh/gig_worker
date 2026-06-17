@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: gig-income-ledger
+    runtime: python
+    buildCommand: pip install -e . -r requirements.txt
+    startCommand: python -m income_ledger.server
+    envVars:
+      - key: SERVER_OPEN_BROWSER
+        value: "false"
+      - key: GEMINI_API_KEY
+        sync: false
