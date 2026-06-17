@@ -84,6 +84,16 @@ Opens `http://127.0.0.1:8765/` in your browser automatically.
 
 ---
 
+## Demo bank statements
+
+Download sample bank statements to try the app:
+
+**[Demo bank statements (Google Drive)](https://drive.google.com/drive/folders/1ZklSbxMXyOQh-EHk9qcJBcisBUzdINzP?usp=sharing)**
+
+These are synthetic statements containing realistic gig platform transactions (Swiggy, Zomato, Uber, Ola) — no real financial data.
+
+---
+
 ## How to use
 
 1. Drag and drop one or more bank statement PDFs onto the upload zone, or click **Browse files**
