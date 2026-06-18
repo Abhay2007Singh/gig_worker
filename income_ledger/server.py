@@ -187,6 +187,12 @@ SPA_HTML = r"""<!DOCTYPE html>
       </svg>
       <p><strong>Drop PDF files here</strong> or click to browse</p>
       <p style="margin-top:6px;font-size:0.78rem">Bank statements &amp; platform exports — multiple files supported</p>
+      <p style="margin-top:8px;font-size:0.78rem;color:#6b7280">
+        No statements handy?
+        <a href="https://drive.google.com/drive/folders/1ZklSbxMXyOQh-EHk9qcJBcisBUzdINzP?usp=sharing"
+           target="_blank" rel="noopener noreferrer"
+           style="color:#2563eb;text-decoration:underline">Download demo bank statements</a>
+      </p>
       <input type="file" id="file-input" accept="application/pdf" multiple>
       <br>
       <button class="btn-primary" id="btn-browse" type="button">Browse files</button>

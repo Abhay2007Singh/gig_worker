@@ -19,10 +19,11 @@ single consolidated view. Getting a clear picture of earnings — how much came
 from which platform, whether income is growing or volatile, how long the longest
 dry spell was — requires manually going through hundreds of rows.
 
-This tool automates that reconstruction locally, on your own machine, without
-sending your financial data to any third-party service (except Gemini for
-prose rephrasing, which is optional and receives only anonymised summary text,
-never raw transaction data).
+This tool automates that reconstruction without sending your raw financial data
+to any third-party service. The only external call is an optional Gemini request
+for prose rephrasing — it receives only the anonymised summary text, never raw
+transaction data or account details. When hosted, your PDFs are processed
+server-side and discarded immediately after parsing; nothing is stored.
 
 ---
 
@@ -365,6 +366,6 @@ render, pipeline, and server multipart parsing.
 
 - **Single user** — no authentication, no multi-tenant support
 - **Text-based PDFs only** — scanned/image PDFs are rejected with a clear error
-- **Local only** — no data leaves your machine except the Gemini API calls
+- **No persistent storage** — uploaded PDFs are processed in a temporary directory and deleted immediately; nothing is written to disk after the response is sent
 - **Gemini calls never receive raw transaction data** — the parser sends raw PDF text; the summary call sends only the anonymised template text with no names or account numbers
 - **No persistent storage** — each upload session uses a throwaway SQLite database deleted when the session ends
